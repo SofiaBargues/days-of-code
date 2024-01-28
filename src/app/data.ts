@@ -82,7 +82,7 @@ export default [
   },
   {
     img: "/images/17.png",
-    title: "Login & Registration Form",
+    title: "Login & Registration",
     link: "https://signupform-jade.vercel.app/",
   },
   {
@@ -91,62 +91,62 @@ export default [
     link: "https://replicate-stream.vercel.app/",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
