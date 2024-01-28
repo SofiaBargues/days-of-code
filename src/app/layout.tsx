@@ -16,8 +16,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html data-theme="synthwave" lang="en">
+      <body className={inter.className + " bg-base-300"}>{children}</body>
     </html>
   );
 }
