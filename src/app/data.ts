@@ -91,12 +91,62 @@ export default [
     link: "https://replicate-stream.vercel.app/",
   },
   {
-    img: "/images/19.png",
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
   {
-    img: "/images/20.png",
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
+    title: "...",
+    link: "",
+  },
+  {
+    img: "https://fakeimg.pl/600x400?text=SOON&font=museo",
     title: "...",
     link: "",
   },
