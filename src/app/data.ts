@@ -91,14 +91,14 @@ export default [
     link: "https://replicate-stream.vercel.app/",
   },
   {
-    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
-    title: "...",
-    link: "",
+    img: "/images/19.png",
+    title: "DOC",
+    link: "https://days-of-code.vercel.app/",
   },
   {
-    img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
-    title: "...",
-    link: "",
+    img: "/images/20.png",
+    title: "Color Game",
+    link: "https://juego-de-colores.vercel.app/",
   },
   {
     img: "https://fakeimg.pl/800x400?text=SOON&font=museo",
