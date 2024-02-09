@@ -148,6 +148,6 @@ export default [
   {
     img: "/images/30.png",
     title: "Donations",
-    link: "https://juego-de-colores.vercel.app/",
+    link: "https://donations-teal.vercel.app/",
   },
 ];
