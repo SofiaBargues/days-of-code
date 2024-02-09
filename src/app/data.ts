@@ -113,7 +113,7 @@ export default [
   {
     img: "/images/23.png",
     title: "Couse NextJS",
-    link: "https://juego-de-colores.vercel.app/",
+    link: "https://nextjs-course-alpha-peach.vercel.app/",
   },
   {
     img: "/images/24.png",
