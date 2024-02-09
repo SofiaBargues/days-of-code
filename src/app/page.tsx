@@ -14,12 +14,12 @@ function Card({
   return (
     <a
       href={link}
-      className="card w-full bg-base-100 rounded-none border border-primary hover:opacity-70 max-w-96 m-auto h-96"
+      className="card w-full bg-base-100 rounded-none border border-primary hover:opacity-70 max-w-96 m-auto h-44"
     >
-      <div className="card-body items-center text-center gap-4">
+      {/* <div className="card-body items-center text-center gap-4">
         <h3 className="text-5xl text-right w-full">{day}</h3>
         <h2 className="card-title">{title}</h2>
-      </div>
+      </div> */}
       <figure className="">
         <img src={img} alt="" className="h-44 object-cover w-full" />
       </figure>

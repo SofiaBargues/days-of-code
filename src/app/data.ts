@@ -148,6 +148,6 @@ export default [
   {
     img: "/images/30.png",
     title: "Donations",
-    link: "https://donations-teal.vercel.app/",
+    link: "https://nextjs-course-alpha-peach.vercel.app/",
   },
 ];
